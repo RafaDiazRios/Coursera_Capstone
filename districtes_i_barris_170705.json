@@ -1,0 +1,440 @@
+[
+ {
+   "CODI_DISTRICTE": 1,
+   "NOM_DISTRICTE": "Ciutat Vella",
+   "CODI_BARRI": 1,
+   "NOM_BARRI": "el Raval"
+ },
+ {
+   "CODI_DISTRICTE": 1,
+   "NOM_DISTRICTE": "Ciutat Vella",
+   "CODI_BARRI": 2,
+   "NOM_BARRI": "el Barri Gòtic"
+ },
+ {
+   "CODI_DISTRICTE": 1,
+   "NOM_DISTRICTE": "Ciutat Vella",
+   "CODI_BARRI": 3,
+   "NOM_BARRI": "la Barceloneta"
+ },
+ {
+   "CODI_DISTRICTE": 1,
+   "NOM_DISTRICTE": "Ciutat Vella",
+   "CODI_BARRI": 4,
+   "NOM_BARRI": "Sant Pere, Santa Caterina i la Ribera"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 5,
+   "NOM_BARRI": "el Fort Pienc"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 6,
+   "NOM_BARRI": "la Sagrada Família"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 7,
+   "NOM_BARRI": "la Dreta de l'Eixample"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 8,
+   "NOM_BARRI": "l'Antiga Esquerra de l'Eixample"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 9,
+   "NOM_BARRI": "la Nova Esquerra de l'Eixample"
+ },
+ {
+   "CODI_DISTRICTE": 2,
+   "NOM_DISTRICTE": "Eixample",
+   "CODI_BARRI": 10,
+   "NOM_BARRI": "Sant Antoni"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 11,
+   "NOM_BARRI": "el Poble Sec"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 12,
+   "NOM_BARRI": "la Marina del Prat Vermell"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 13,
+   "NOM_BARRI": "la Marina de Port"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 14,
+   "NOM_BARRI": "la Font de la Guatlla"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 15,
+   "NOM_BARRI": "Hostafrancs"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 16,
+   "NOM_BARRI": "la Bordeta"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 17,
+   "NOM_BARRI": "Sants - Badal"
+ },
+ {
+   "CODI_DISTRICTE": 3,
+   "NOM_DISTRICTE": "Sants-Montjuïc",
+   "CODI_BARRI": 18,
+   "NOM_BARRI": "Sants"
+ },
+ {
+   "CODI_DISTRICTE": 4,
+   "NOM_DISTRICTE": "Les Corts",
+   "CODI_BARRI": 19,
+   "NOM_BARRI": "les Corts"
+ },
+ {
+   "CODI_DISTRICTE": 4,
+   "NOM_DISTRICTE": "Les Corts",
+   "CODI_BARRI": 20,
+   "NOM_BARRI": "la Maternitat i Sant Ramon"
+ },
+ {
+   "CODI_DISTRICTE": 4,
+   "NOM_DISTRICTE": "Les Corts",
+   "CODI_BARRI": 21,
+   "NOM_BARRI": "Pedralbes"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 22,
+   "NOM_BARRI": "Vallvidrera, el Tibidabo i les Planes"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 23,
+   "NOM_BARRI": "Sarrià"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 24,
+   "NOM_BARRI": "les Tres Torres"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 25,
+   "NOM_BARRI": "Sant Gervasi - la Bonanova"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 26,
+   "NOM_BARRI": "Sant Gervasi - Galvany"
+ },
+ {
+   "CODI_DISTRICTE": 5,
+   "NOM_DISTRICTE": "Sarrià-Sant Gervasi",
+   "CODI_BARRI": 27,
+   "NOM_BARRI": "el Putxet i el Farró"
+ },
+ {
+   "CODI_DISTRICTE": 6,
+   "NOM_DISTRICTE": "Gràcia",
+   "CODI_BARRI": 28,
+   "NOM_BARRI": "Vallcarca i els Penitents"
+ },
+ {
+   "CODI_DISTRICTE": 6,
+   "NOM_DISTRICTE": "Gràcia",
+   "CODI_BARRI": 29,
+   "NOM_BARRI": "el Coll"
+ },
+ {
+   "CODI_DISTRICTE": 6,
+   "NOM_DISTRICTE": "Gràcia",
+   "CODI_BARRI": 30,
+   "NOM_BARRI": "la Salut"
+ },
+ {
+   "CODI_DISTRICTE": 6,
+   "NOM_DISTRICTE": "Gràcia",
+   "CODI_BARRI": 31,
+   "NOM_BARRI": "la Vila de Gràcia"
+ },
+ {
+   "CODI_DISTRICTE": 6,
+   "NOM_DISTRICTE": "Gràcia",
+   "CODI_BARRI": 32,
+   "NOM_BARRI": "el Camp d'en Grassot i Gràcia Nova"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 33,
+   "NOM_BARRI": "el Baix Guinardó"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 34,
+   "NOM_BARRI": "Can Baró"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 35,
+   "NOM_BARRI": "el Guinardó"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 36,
+   "NOM_BARRI": "la Font d'en Fargues"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 37,
+   "NOM_BARRI": "el Carmel"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 38,
+   "NOM_BARRI": "la Teixonera"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 39,
+   "NOM_BARRI": "Sant Genís dels Agudells"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 40,
+   "NOM_BARRI": "Montbau"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 41,
+   "NOM_BARRI": "la Vall d'Hebron"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 42,
+   "NOM_BARRI": "la Clota"
+ },
+ {
+   "CODI_DISTRICTE": 7,
+   "NOM_DISTRICTE": "Horta-Guinardó",
+   "CODI_BARRI": 43,
+   "NOM_BARRI": "Horta"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 44,
+   "NOM_BARRI": "Vilapicina i la Torre Llobeta"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 45,
+   "NOM_BARRI": "Porta"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 46,
+   "NOM_BARRI": "el Turó de la Peira"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 47,
+   "NOM_BARRI": "Can Peguera"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 48,
+   "NOM_BARRI": "la Guineueta"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 49,
+   "NOM_BARRI": "Canyelles"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 50,
+   "NOM_BARRI": "les Roquetes"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 51,
+   "NOM_BARRI": "Verdun"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 52,
+   "NOM_BARRI": "la Prosperitat"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 53,
+   "NOM_BARRI": "la Trinitat Nova"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 54,
+   "NOM_BARRI": "Torre Baró"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 55,
+   "NOM_BARRI": "Ciutat Meridiana"
+ },
+ {
+   "CODI_DISTRICTE": 8,
+   "NOM_DISTRICTE": "Nou Barris",
+   "CODI_BARRI": 56,
+   "NOM_BARRI": "Vallbona"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 57,
+   "NOM_BARRI": "la Trinitat Vella"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 58,
+   "NOM_BARRI": "Baró de Viver"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 59,
+   "NOM_BARRI": "el Bon Pastor"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 60,
+   "NOM_BARRI": "Sant Andreu"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 61,
+   "NOM_BARRI": "la Sagrera"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 62,
+   "NOM_BARRI": "el Congrés i els Indians"
+ },
+ {
+   "CODI_DISTRICTE": 9,
+   "NOM_DISTRICTE": "Sant Andreu",
+   "CODI_BARRI": 63,
+   "NOM_BARRI": "Navas"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 64,
+   "NOM_BARRI": "el Camp de l'Arpa del Clot"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 65,
+   "NOM_BARRI": "el Clot"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 66,
+   "NOM_BARRI": "el Parc i la Llacuna del Poblenou"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 67,
+   "NOM_BARRI": "la Vila Olímpica del Poblenou"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 68,
+   "NOM_BARRI": "el Poblenou"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 69,
+   "NOM_BARRI": "Diagonal Mar i el Front Marítim del Poblenou"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 70,
+   "NOM_BARRI": "el Besòs i el Maresme"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 71,
+   "NOM_BARRI": "Provençals del Poblenou"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 72,
+   "NOM_BARRI": "Sant Martí de Provençals"
+ },
+ {
+   "CODI_DISTRICTE": 10,
+   "NOM_DISTRICTE": "Sant Martí",
+   "CODI_BARRI": 73,
+   "NOM_BARRI": "la Verneda i la Pau"
+ }
+]
